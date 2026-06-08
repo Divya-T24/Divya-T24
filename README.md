@@ -187,6 +187,4 @@ Terminal-based racing game developed in C with collision detection and score tra
 
 ### ✝️ Faith • Technology • Innovation
 
-<img src="https://komarev.com/ghpvc/?username=Divya-T24&label=Profile%20Views&color=8F7479&style=for-the-badge"/>
-
 </div>
