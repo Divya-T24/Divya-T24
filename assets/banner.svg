@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300">
+  <rect width="1200" height="300" fill="#F3E7E9" />
+  <rect x="0" y="220" width="1200" height="80" fill="#C08497" opacity="0.08" />
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="#2D2A32" font-size="36" font-family="Inter, sans-serif">Divya T — Student Developer</text>
+</svg>

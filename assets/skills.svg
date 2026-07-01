@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 120">
+  <rect width="800" height="120" fill="#F3E7E9" />
+  <g fill="#2D2A32" font-family="Inter, sans-serif" font-size="16">
+    <text x="40" y="40">Frontend • React • Tailwind • HTML • CSS</text>
+    <text x="40" y="80">AI • Python • OpenCV • YOLOv8</text>
+  </g>
+</svg>
