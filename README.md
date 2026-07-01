@@ -255,20 +255,3 @@ Designed and developed by **Divya T**
 
 </div>
 
-For your color palette use:
-
-Main:
-#C08497
-
-Background:
-#F3E7E9
-
-Dark:
-#2D2A32
-
-Soft:
-#E8C7C8
-
-
-Crafting delightful interfaces, one pixel at a time.
-
