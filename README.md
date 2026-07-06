@@ -1,13 +1,270 @@
-# 💫 About Me:
-I'm Divya T<br><br><br>Full Stack Developer | Data Analytics Enthusiast | Problem Solver<br><br>I build web applications, data-driven dashboards, and intelligent systems.<br>Currently improving my skills in Software Development, AI, and DSA.
+<div align="center">
 
+<!-- Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=C4B6B7&text=Divya%20T&fontColor=1F1B1C&fontSize=58&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Data%20Analytics%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=58&descSize=18" alt="Divya T profile header" />
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/divyathirugnanam) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:divyathirugnanamofficial@gmail.com) 
+<!-- Banner -->
+<a href="https://divya-t24.github.io/divya-t-Portfolio/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2600&pause=800&color=C4B6B7&center=true&vCenter=true&width=900&lines=I+build+clean+web+experiences.;I+turn+data+into+useful+stories.;I+love+shipping+ideas+with+purpose." alt="Typing banner" />
+</a>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![ReScript](https://img.shields.io/badge/rescript-%2314162c?style=flat&logo=rescript&logoColor=e34c4c) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat&logo=chart.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Divya-T24&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Divya-T24&theme=rose_pine&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Divya-T24&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br />
+
+<a href="https://divya-t24.github.io/divya-t-Portfolio/">
+  <img src="https://img.shields.io/badge/Portfolio-C4B6B7?style=for-the-badge&logo=firefoxbrowser&logoColor=1F1B1C&labelColor=1F1B1C" alt="Portfolio" />
+</a>
+<a href="mailto:divyathirugnanamofficial@gmail.com">
+  <img src="https://img.shields.io/badge/Email-C4B6B7?style=for-the-badge&logo=gmail&logoColor=1F1B1C&labelColor=1F1B1C" alt="Email" />
+</a>
+<a href="https://www.linkedin.com/in/divyathirugnanam">
+  <img src="https://img.shields.io/badge/LinkedIn-C4B6B7?style=for-the-badge&logo=linkedin&logoColor=1F1B1C&labelColor=1F1B1C" alt="LinkedIn" />
+</a>
+
+</div>
+
+---
+
+<!-- About Me -->
+<h2 align="center">About Me</h2>
+
+<table>
+  <tr>
+    <td width="58%">
+      <h3>Hi, I am Divya T.</h3>
+      <p>
+        I am a full stack developer and data analytics enthusiast focused on building practical,
+        polished, and user-friendly digital products. I enjoy working across frontend interfaces,
+        backend logic, dashboards, and intelligent systems.
+      </p>
+      <p>
+        Right now, I am sharpening my software development fundamentals, exploring AI-powered
+        workflows, and improving my problem-solving through data structures and algorithms.
+      </p>
+    </td>
+    <td width="42%">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Divya-T24&show_icons=true&hide_border=true&title_color=C4B6B7&text_color=F5ECEC&icon_color=C4B6B7&bg_color=1F1B1C" alt="Divya T GitHub overview" />
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- Tech Stack -->
+<h2 align="center">Tech Stack</h2>
+
+<div align="center">
+
+![C](https://img.shields.io/badge/C-C4B6B7?style=flat-square&logo=c&logoColor=1F1B1C)
+![C++](https://img.shields.io/badge/C%2B%2B-C4B6B7?style=flat-square&logo=cplusplus&logoColor=1F1B1C)
+![Python](https://img.shields.io/badge/Python-C4B6B7?style=flat-square&logo=python&logoColor=1F1B1C)
+![JavaScript](https://img.shields.io/badge/JavaScript-C4B6B7?style=flat-square&logo=javascript&logoColor=1F1B1C)
+![TypeScript](https://img.shields.io/badge/TypeScript-C4B6B7?style=flat-square&logo=typescript&logoColor=1F1B1C)
+![HTML5](https://img.shields.io/badge/HTML5-C4B6B7?style=flat-square&logo=html5&logoColor=1F1B1C)
+![CSS3](https://img.shields.io/badge/CSS3-C4B6B7?style=flat-square&logo=css3&logoColor=1F1B1C)
+![Markdown](https://img.shields.io/badge/Markdown-C4B6B7?style=flat-square&logo=markdown&logoColor=1F1B1C)
+
+![Node.js](https://img.shields.io/badge/Node.js-1F1B1C?style=flat-square&logo=nodedotjs&logoColor=C4B6B7)
+![Express.js](https://img.shields.io/badge/Express.js-1F1B1C?style=flat-square&logo=express&logoColor=C4B6B7)
+![MongoDB](https://img.shields.io/badge/MongoDB-1F1B1C?style=flat-square&logo=mongodb&logoColor=C4B6B7)
+![MySQL](https://img.shields.io/badge/MySQL-1F1B1C?style=flat-square&logo=mysql&logoColor=C4B6B7)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1F1B1C?style=flat-square&logo=postgresql&logoColor=C4B6B7)
+![NumPy](https://img.shields.io/badge/NumPy-1F1B1C?style=flat-square&logo=numpy&logoColor=C4B6B7)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-1F1B1C?style=flat-square&logo=python&logoColor=C4B6B7)
+![Chart.js](https://img.shields.io/badge/Chart.js-1F1B1C?style=flat-square&logo=chartdotjs&logoColor=C4B6B7)
+
+![Git](https://img.shields.io/badge/Git-C4B6B7?style=flat-square&logo=git&logoColor=1F1B1C)
+![GitHub](https://img.shields.io/badge/GitHub-C4B6B7?style=flat-square&logo=github&logoColor=1F1B1C)
+![Netlify](https://img.shields.io/badge/Netlify-C4B6B7?style=flat-square&logo=netlify&logoColor=1F1B1C)
+![Canva](https://img.shields.io/badge/Canva-C4B6B7?style=flat-square&logo=canva&logoColor=1F1B1C)
+![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-C4B6B7?style=flat-square&logo=windowsterminal&logoColor=1F1B1C)
+
+</div>
+
+---
+
+<!-- Skills -->
+<h2 align="center">Skills</h2>
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <h3>Frontend</h3>
+      <p>Responsive UI, reusable components, clean layouts, accessibility basics</p>
+    </td>
+    <td align="center" width="25%">
+      <h3>Backend</h3>
+      <p>REST APIs, server logic, authentication flows, database integration</p>
+    </td>
+    <td align="center" width="25%">
+      <h3>Data</h3>
+      <p>Dashboards, charts, insights, analytics workflows, visual storytelling</p>
+    </td>
+    <td align="center" width="25%">
+      <h3>Problem Solving</h3>
+      <p>DSA practice, debugging, structured thinking, product-minded execution</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- Featured Projects -->
+<h2 align="center">Featured Projects</h2>
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>Personal Portfolio</h3>
+      <p>A polished portfolio website that presents my work, skills, and developer journey with a soft visual identity.</p>
+      <p>
+        <a href="https://divya-t24.github.io/divya-t-Portfolio/">
+          <img src="https://img.shields.io/badge/Live_Demo-C4B6B7?style=for-the-badge&logo=githubpages&logoColor=1F1B1C&labelColor=1F1B1C" alt="Portfolio live demo" />
+        </a>
+        <a href="https://github.com/Divya-T24/divya-t-Portfolio">
+          <img src="https://img.shields.io/badge/Repository-1F1B1C?style=for-the-badge&logo=github&logoColor=C4B6B7&labelColor=1F1B1C" alt="Portfolio repository" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3>Data + Web Projects</h3>
+      <p>A growing collection of applications, dashboards, and experiments built while learning full stack development and analytics.</p>
+      <p>
+        <a href="https://github.com/Divya-T24?tab=repositories">
+          <img src="https://img.shields.io/badge/View_Repos-C4B6B7?style=for-the-badge&logo=github&logoColor=1F1B1C&labelColor=1F1B1C" alt="View repositories" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- GitHub Stats -->
+<h2 align="center">GitHub Stats</h2>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Divya-T24&show_icons=true&hide_border=true&rank_icon=github&title_color=C4B6B7&text_color=F5ECEC&icon_color=C4B6B7&bg_color=1F1B1C" alt="GitHub stats" />
+<img width="49%" src="https://streak-stats.demolab.com?user=Divya-T24&hide_border=true&background=1F1B1C&stroke=C4B6B7&ring=C4B6B7&fire=C4B6B7&currStreakNum=F5ECEC&sideNums=F5ECEC&currStreakLabel=C4B6B7&sideLabels=C4B6B7&dates=F5ECEC" alt="GitHub streak stats" />
+
+<br />
+
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divya-T24&layout=compact&hide_border=true&title_color=C4B6B7&text_color=F5ECEC&bg_color=1F1B1C" alt="Top languages" />
+
+</div>
+
+---
+
+<!-- Contribution Graph -->
+<h2 align="center">Contribution Graph</h2>
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Divya-T24&bg_color=1F1B1C&color=F5ECEC&line=C4B6B7&point=FFFFFF&area=true&area_color=C4B6B7&hide_border=true" alt="Contribution graph" />
+
+</div>
+
+---
+
+<!-- Achievements -->
+<h2 align="center">Achievements</h2>
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Divya-T24&theme=flat&no-frame=true&no-bg=true&margin-w=12&margin-h=12&title=Commits,Repositories,PullRequest,Followers,Stars" alt="GitHub achievements" />
+
+</div>
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h3>Builder Mindset</h3>
+      <p>Turning ideas into real projects and improving them with every iteration.</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>Consistent Learning</h3>
+      <p>Growing across software development, analytics, AI, and DSA.</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>Problem Solver</h3>
+      <p>Focused on clean logic, practical systems, and thoughtful user experiences.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- Certifications -->
+<h2 align="center">Certifications</h2>
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h3>Software Development</h3>
+      <p>Learning proof, project work, and practice-based growth.</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>Data Analytics</h3>
+      <p>Dashboards, visualizations, and analytics-focused skill building.</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>AI + Productivity</h3>
+      <p>Exploring AI tools and workflows for smarter development.</p>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/divyathirugnanam">
+    <img src="https://img.shields.io/badge/View_Certifications_on_LinkedIn-C4B6B7?style=for-the-badge&logo=linkedin&logoColor=1F1B1C&labelColor=1F1B1C" alt="View certifications on LinkedIn" />
+  </a>
+</div>
+
+---
+
+<!-- Current Learning -->
+<h2 align="center">Current Learning</h2>
+
+<table>
+  <tr>
+    <td align="center">Full Stack Development</td>
+    <td align="center">AI Integration</td>
+    <td align="center">Data Structures and Algorithms</td>
+    <td align="center">Data Analytics Dashboards</td>
+  </tr>
+</table>
+
+---
+
+<!-- Connect With Me -->
+<h2 align="center">Connect With Me</h2>
+
+<div align="center">
+
+<a href="https://divya-t24.github.io/divya-t-Portfolio/">
+  <img src="https://img.shields.io/badge/Portfolio-1F1B1C?style=for-the-badge&logo=firefoxbrowser&logoColor=C4B6B7" alt="Portfolio" />
+</a>
+<a href="https://www.linkedin.com/in/divyathirugnanam">
+  <img src="https://img.shields.io/badge/LinkedIn-1F1B1C?style=for-the-badge&logo=linkedin&logoColor=C4B6B7" alt="LinkedIn" />
+</a>
+<a href="mailto:divyathirugnanamofficial@gmail.com">
+  <img src="https://img.shields.io/badge/Email-1F1B1C?style=for-the-badge&logo=gmail&logoColor=C4B6B7" alt="Email" />
+</a>
+<a href="https://github.com/Divya-T24">
+  <img src="https://img.shields.io/badge/GitHub-1F1B1C?style=for-the-badge&logo=github&logoColor=C4B6B7" alt="GitHub" />
+</a>
+
+</div>
+
+---
+
+<!-- Visitor Counter -->
+<h2 align="center">Visitor Counter</h2>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Divya-T24&label=Profile%20Views&color=C4B6B7&style=for-the-badge" alt="Profile visitor counter" />
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=C4B6B7" alt="Footer wave" /> 

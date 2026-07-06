@@ -1,5 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200">
-  <rect width="800" height="200" fill="#FFFFFF" />
-  <circle cx="110" cy="100" r="80" fill="#C08497" opacity="0.12" />
-  <text x="220" y="100" dominant-baseline="middle" fill="#2D2A32" font-size="20" font-family="Inter, sans-serif">About • Frontend · AI · Design</text>
-</svg>
