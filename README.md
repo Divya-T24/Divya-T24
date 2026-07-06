@@ -16,7 +16,7 @@
 <a href="mailto:divyathirugnanamofficial@gmail.com">
   <img src="https://img.shields.io/badge/Email-C4B6B7?style=for-the-badge&logo=gmail&logoColor=1F1B1C&labelColor=1F1B1C" alt="Email" />
 </a>
-<a href="https://www.linkedin.com/in/divyathirugnanam">
+<a href="https://www.linkedin.com/in/divya-thirugnanam">
   <img src="https://img.shields.io/badge/LinkedIn-C4B6B7?style=for-the-badge&logo=linkedin&logoColor=1F1B1C&labelColor=1F1B1C" alt="LinkedIn" />
 </a>
 
@@ -215,7 +215,7 @@
 </table>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/divyathirugnanam">
+  <a href="https://www.linkedin.com/in/divya-thirugnanam">
     <img src="https://img.shields.io/badge/View_Certifications_on_LinkedIn-C4B6B7?style=for-the-badge&logo=linkedin&logoColor=1F1B1C&labelColor=1F1B1C" alt="View certifications on LinkedIn" />
   </a>
 </div>
@@ -244,7 +244,7 @@
 <a href="https://divya-t24.github.io/divya-t-Portfolio/">
   <img src="https://img.shields.io/badge/Portfolio-1F1B1C?style=for-the-badge&logo=firefoxbrowser&logoColor=C4B6B7" alt="Portfolio" />
 </a>
-<a href="https://www.linkedin.com/in/divyathirugnanam">
+<a href="https://www.linkedin.com/in/divya-thirugnanam">
   <img src="https://img.shields.io/badge/LinkedIn-1F1B1C?style=for-the-badge&logo=linkedin&logoColor=C4B6B7" alt="LinkedIn" />
 </a>
 <a href="mailto:divyathirugnanamofficial@gmail.com">
